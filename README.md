@@ -8,3 +8,5 @@ https://arturorito.github.io/01Homework-HTML_Syntax/
 Link to Git Hub:
 https://github.com/arturorito/01Homework-HTML_Syntax
 
+![Alt text](./images/screenshot1.png?raw=true "Top Half of Complete Website")
+![Alt text](./images/screenshot2.png?raw=true  "Bottom Half of Complete Website")
